@@ -120,6 +120,6 @@ ATC run success, welcome to the next use.
 
 ---
 
-✍️ 作者：虞文燚  
+✍️ 作者：Yuking  
 📧 邮箱：yuking926@outlook.com  
-🔗 项目地址：[GitHub Repo](https://github.com/yuking926/model_convert.git)
+🔗 项目地址：[GitHub Repo](https://github.com/yuking926/Ascend-convert.git)
